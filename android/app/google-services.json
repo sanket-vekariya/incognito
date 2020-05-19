@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "924132120935",
+    "firebase_url": "https://incognito-603d9.firebaseio.com",
+    "project_id": "incognito-603d9",
+    "storage_bucket": "incognito-603d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924132120935:android:6990727c2e591f530737c2",
+        "android_client_info": {
+          "package_name": "io.incognito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924132120935-beb6nd6b21jevp9efs8t28aii0leh1ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.incognito",
+            "certificate_hash": "a2ac6f35f71c09780068b8433801a816952a4795"
+          }
+        },
+        {
+          "client_id": "924132120935-0ccuaikdo09h5n0f9cg6gkh3h90ipeos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqx_CmqD2aFVniryjPwLciHeZRVxo1QeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924132120935-0ccuaikdo09h5n0f9cg6gkh3h90ipeos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
